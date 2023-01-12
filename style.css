@@ -1,0 +1,35 @@
+body{
+    margin: 0 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: black;
+    color: white;
+    font-family: cursive;
+}
+.container{
+    text-align: center;
+    width: 400px;
+    position: relative;
+}
+.counter{
+    font-size: 40px;
+    font-family: sans-serif;
+}
+.load-back{
+    position: absolute;
+    height: 8px;
+    background-color: lightgray;
+    width: 100%;
+    border-radius: 5px;
+    border: none;
+}
+.load-front{
+    position: absolute;
+    height: 8px;
+    background-color: orangered;
+    width: 10%;
+    border-radius: 5px;
+    border: none;
+}
