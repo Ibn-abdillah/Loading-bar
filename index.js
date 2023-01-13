@@ -2,7 +2,7 @@ const counter = document.querySelector('.counter')
 const back = document.querySelector('.load-back')
 const front = document.querySelector('.load-front')
 
-console.log("happy coding")
+console.log("happy coding!")
 
 let idx = 0;
 
